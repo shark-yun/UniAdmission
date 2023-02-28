@@ -5,6 +5,7 @@ We can create visual representations such as bar charts or stacked bar charts fo
 
 
 Ver1 is my first attempt. 02/28/2023
+
 need to improve on correctly labe religious, publice/private, and set the tution fee difference formula correctly and make it looks better.
 
 Ver2 coming soon.
